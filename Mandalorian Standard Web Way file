@@ -1,0 +1,1001 @@
+	<Campaign Name="GC_Standard_Web_Way_Mandalorians">
+
+		<Campaign_Set> Web_Way3 </Campaign_Set>
+		<Sort_Order>7</Sort_Order>
+
+		<Text_ID> GC_WEB_WAY_STANDARD </Text_ID>
+		<Description_Text> 
+		GC_WEB_WAY_STANDARD_DISC
+		</Description_Text>
+
+		<Camera_Shift_X> 600.0 </Camera_Shift_X>
+		<Camera_Shift_Y> -320.0 </Camera_Shift_Y>
+		<Camera_Distance> 1200.0 </Camera_Distance>
+
+		<Human_Victory_Conditions>
+			Galactic_Control_Named_Planets
+		</Human_Victory_Conditions>
+
+		<Human_Victory_Planet_Names> Etti_IV_WW, Endor_WW, Hapes_WW, SJWorlds_WW, Csilla_WW, Kaas_WW, MonCalamari_WW </Human_Victory_Planet_Names>
+
+		<AI_Victory_Conditions>
+			Galactic_All_Planets_Controlled
+		</AI_Victory_Conditions>
+
+		<Locations>
+		Galaxy_Core_Art_Model_Web_Way, VV_Dummy_1, VV_Dummy_2, VV_Dummy_3,
+		Agamar_WW, Alderaan_WW, Anaxes_WW, Abregado_Rae_WW, AetenII_WW, AlzocIII_WW, Atzerri_WW, Arkanis_WW,
+		Arda_WW, Axxila_WW, Ansion_WW, Bespin_WW, Bestine_WW, Bonadan_WW, Bothawui_WW, Byss_WW,
+		Boz_Pity_WW, The_Redoubt_WW, Bilbringi_WW, SJWorlds_WW, Birgis_WW, Commenor_WW, 
+		Carida_WW, Christophisis_WW, Csilla_WW, Corellia_WW, Coruscant_WW, Cato_Neimoidia_WW, Dagobah_WW, Dantooine_WW,
+		Dathomir_WW, Ord_Trasi_WW, Dubrillion_WW, Columex_WW, Tanaab_WW, Kaas_WW, Etti_IV_WW, Endor_WW, Eriadu_WW, 
+		Daalang_WW, Felucia_WW, Utegetu_Nebula_WW, Fresia_WW, Fondor_WW, Geonosis_WW, Hapes_WW, Zygerria_WW,
+		Hoth_WW, Hypori_WW, Ilum_WW, Ithor_WW, Jabiim_WW, Kamino_WW, 
+		Kashyyyk_WW, Korriban_WW, Kuat_WW, Lehon_WW, Loronar_WW, Druckenwell_WW, MalachorV_WW, Manaan_WW, 
+		Mandalore_WW, Lantillies_WW, Mimban_WW, Malastare_WW, The_Maw_WW, MonCalamari_WW, Mustafar_WW, Muunilinst_WW, Mygeeto_WW, 
+		Champala_WW, Naboo_WW, NalHutta_WW, Circumtore_WW, Brentaal_WW, Botajef_WW, Sleheyron_WW, Kinyen_WW, Yavin_WW,
+
+		Onderon_WW, Zeltros_WW, Ord_Mantell_WW, Orinda_WW, Polis_WW, Nanthri_WW, 
+		Raxus_WW, Rendili_WW, Ringo_Vinda_WW, Syvris_WW, Rothana_WW, Ryloth_WW, Randon_WW, 
+		Reltooine_WW, Socorro_WW, Sullust_WW, Borosk_WW, Smugglers_Run_WW, Sluis_Van_WW, Sernpidal_WW, Saleucami_WW, Shola_WW, 
+		Scarif_WW, Kriselist_WW, Taris_WW, Tatooine_WW, Telos_WW, Teth_WW, Celanon_WW, Thyferra_WW, 
+		Utapau_WW, VergessoAsteroids_WW, Lianna_WW, Vjun_WW, YagDhul_WW,
+		
+		Etti_IV_Galaxy, Endor_Galaxy, Hapes_Nebula, Hapes_Galaxy, SJWorlds_Nebula, SJWorlds_Galaxy, Csilla_Galaxy, Kaas_Galaxy, MonCalamari_Galaxy,
+		Icon_Republic_Ringo_WW, Icon_Republic_Rothana_WW, Icon_Republic_Rendili_WW,
+		Icon_CIS_Muunilinst_WW, Icon_CIS_Cato_WW, Icon_CIS_Mustafar_WW, Icon_CIS_Mon_Calamari_WW,
+		Icon_KOTOR_Malachor_WW, Icon_KOTOR_Lehon_WW,
+		Icon_Mandalore_WW, Icon_Hapes_WW, Icon_Sith_WW, Icon_CSA_WW,
+		Icon_Rebel_Sullust_WW, Icon_Rebel_Kashyyyk_WW,
+		Icon_Empire_Kuat_WW, Icon_Empire_Fondor_WW,
+		
+		Empire_Dummy_WW, Rebel_Dummy_WW, Underworld_Dummy_WW, 
+		CIS_Dummy_WW, CSA_Dummy_WW, Republic_Dummy_WW, Sith_Dummy_WW,
+		Hapes_Dummy_WW, Cartels_Dummy_WW, Mando_Dummy_WW, Warlords_Dummy_WW
+		</Locations>
+
+		<Trade_Routes>
+			WW_002, 												WW_009, WW_010,
+		WW_011, WW_012, 				WW_015, WW_016, WW_017, 				WW_020,
+		WW_021, 				WW_024, WW_025, WW_026, 						WW_030,
+		WW_031, WW_032, WW_033, WW_034, 		WW_036, WW_037, WW_038,
+		WW_041, 				WW_044, WW_045, WW_046, 				WW_049, WW_050,
+		WW_051, WW_052, WW_053, WW_054, WW_055, 		WW_057, WW_058,
+				WW_062, WW_063, WW_064, WW_065, 		WW_067, 		WW_069, WW_070,
+						WW_073, 				WW_076, WW_077, WW_078, WW_079, WW_080,
+								WW_084, 								WW_089, WW_090,
+		WW_091, WW_092, WW_093, WW_094, WW_095, WW_096, 		 		WW_099, WW_100,
+		WW_101, 		 		WW_104, WW_105, WW_106, WW_107, WW_108, 		WW_110,
+		WW_111, WW_112, WW_113, WW_114, 		WW_116, WW_117, WW_118, WW_119, WW_120,
+		WW_121, WW_122, WW_123, WW_124, WW_125, WW_126, WW_127, WW_128, WW_129, WW_130,
+		WW_131, WW_132, 				WW_135, 		WW_137, WW_138, WW_139, 
+				WW_142, WW_143, WW_144, WW_145, WW_146, WW_147, WW_148, WW_149, WW_150,
+		WW_151, WW_152, WW_153, WW_154, WW_155, WW_156, WW_157, WW_158, WW_159, WW_160,
+		WW_161, WW_162, WW_163, WW_164, WW_165, WW_166, 				WW_169, WW_170,
+		WW_171, WW_172, WW_173, WW_174, WW_175, WW_176, WW_177, 
+		WW_181, 						WW_185, WW_186, 		WW_188, WW_189,
+
+		WW_200,
+			<!--WW_SR3,-->
+			WW_201, WW_202, WW_203, WW_204, WW_205, WW_206, WW_207, WW_208, WW_209, WW_210,
+		WW_211, WW_212, WW_213, WW_214, WW_215, WW_216, WW_217, WW_218, WW_219, WW_220,
+		WW_221, WW_222, WW_223, WW_224, WW_225, WW_226, WW_262, WW_296
+			<!--, WW_SR1, WW_SR2-->
+		</Trade_Routes>
+
+		<Home_Location> Rebel, Yavin_WW </Home_Location>
+		<Home_Location> Empire, Coruscant_WW </Home_Location>
+		<Home_Location> Underworld, Ryloth_WW </Home_Location>
+		<Home_Location> Mandalorians, Mandalore_WW </Home_Location>
+		<Home_Location> Hapan, Hapes_WW </Home_Location>
+		<Home_Location> CIS, Mustafar_WW </Home_Location>
+		<Home_Location> CSA, Etti_IV_WW </Home_Location>
+		<Home_Location> Republic, Kamino_WW </Home_Location>
+		<Home_Location> Warlords, Csilla_WW </Home_Location>
+		<Home_Location> Cartels, NalHutta_WW </Home_Location>
+		<Home_Location> Sith, Kaas_WW </Home_Location>
+
+		<Starting_Active_Player> Mandalorians </Starting_Active_Player>
+
+		<Rebel_Story_Name>Story_Plots_Rebel_Web_Way_Full.xml</Rebel_Story_Name>
+		<Empire_Story_Name>Story_Plots_Empire_Ai_Web_Way_Full.xml</Empire_Story_Name>
+		<Underworld_Story_Name>Story_Plots_Underworld_Ai_Web_Way_Full.xml</Underworld_Story_Name>
+
+		<Story_Name>Mandalorians, Story_Plots_Minors_Mandalorians_WW.xml </Story_Name>
+		<Story_Name>Hapan, Story_Plots_Minors_Hapan_WW.xml </Story_Name>
+		<Story_Name>CIS, Story_Plots_Minors_CIS_WW.xml </Story_Name>
+		<Story_Name>CSA, Story_Plots_Minors_CSA_WW.xml </Story_Name>
+		<Story_Name>Republic, Story_Plots_Minors_Republic_WW.xml </Story_Name>
+		<Story_Name>Warlords, Story_Plots_Minors_Warlords_WW.xml </Story_Name>
+		<Story_Name>Cartels, Story_Plots_Minors_Cartels_WW.xml </Story_Name>
+		<Story_Name>Sith, Story_Plots_Minors_Sith_WW.xml </Story_Name>
+
+		<AI_Player_Control> Empire, GC_EmpireAi </AI_Player_Control>
+		<AI_Player_Control> Underworld, GC_UnderworldAi </AI_Player_Control>
+		<AI_Player_Control> Pirates, GC_PiratesAi </AI_Player_Control>
+		<AI_Player_Control> Rebel, GC_RebelAi </AI_Player_Control>
+		<AI_Player_Control> Mandalorians, SandboxHuman </AI_Player_Control>
+		<AI_Player_Control> Hapan, GC_MinorAi </AI_Player_Control>
+		<AI_Player_Control> CIS, GC_MinorAi </AI_Player_Control>
+		<AI_Player_Control> CSA, GC_MinorAi </AI_Player_Control>
+		<AI_Player_Control> Republic, GC_MinorAi </AI_Player_Control>
+		<AI_Player_Control> Warlords, GC_MinorAi </AI_Player_Control>
+		<AI_Player_Control> Cartels, GC_MinorAi </AI_Player_Control>
+		<AI_Player_Control> Sith, GC_MinorAi </AI_Player_Control>
+
+		<Markup_Filename>Empire, RemakeHints </Markup_Filename>
+		<Markup_Filename>Pirates, RemakeHints </Markup_Filename>
+		<Markup_Filename>Rebel, RemakeHints </Markup_Filename>
+		<Markup_Filename>Underworld, RemakeHints </Markup_Filename>
+		<Markup_Filename>Mandalorians, RemakeHints </Markup_Filename>
+		<Markup_Filename>Hapan, RemakeHints </Markup_Filename>
+		<Markup_Filename>CIS, RemakeHints </Markup_Filename>
+		<Markup_Filename>CSA, RemakeHints </Markup_Filename>
+		<Markup_Filename>Republic, RemakeHints </Markup_Filename>
+		<Markup_Filename>Warlords, RemakeHints </Markup_Filename>
+		<Markup_Filename>Cartels, RemakeHints </Markup_Filename>
+		<Markup_Filename>Sith, RemakeHints </Markup_Filename>
+
+		<Supports_Custom_Settings>True</Supports_Custom_Settings>
+		<Show_Completed_Tab>True</Show_Completed_Tab>
+
+		<Starting_Credits> Rebel,  15000 </Starting_Credits>
+		<Starting_Tech_Level> Rebel, 1 </Starting_Tech_Level>
+		<Max_Tech_Level> Rebel, 5 </Max_Tech_Level>
+
+		<Starting_Credits> Empire,  40000 </Starting_Credits>
+		<Starting_Tech_Level> Empire, 1 </Starting_Tech_Level>
+		<Max_Tech_Level> Empire, 5 </Max_Tech_Level>
+
+		<Starting_Credits> Underworld,  20000 </Starting_Credits>
+		<Starting_Tech_Level> Underworld, 1 </Starting_Tech_Level>
+		<Max_Tech_Level> Underworld, 5 </Max_Tech_Level>
+
+		<Starting_Credits> Hapan,  20000 </Starting_Credits>
+		<Starting_Tech_Level> Hapan, 1 </Starting_Tech_Level>
+		<Max_Tech_Level> Hapan, 5 </Max_Tech_Level>
+
+		<Starting_Credits> Mandalorians,  15000 </Starting_Credits>
+		<Starting_Tech_Level> Mandalorians, 1 </Starting_Tech_Level>
+		<Max_Tech_Level> Mandalorians, 5 </Max_Tech_Level>
+
+		<Starting_Credits> Cartels,  25000 </Starting_Credits>
+		<Starting_Tech_Level> Cartels, 1 </Starting_Tech_Level>
+		<Max_Tech_Level> Cartels, 5 </Max_Tech_Level>
+
+		<Starting_Credits> CIS,  15000 </Starting_Credits>
+		<Starting_Tech_Level> CIS, 1 </Starting_Tech_Level>
+		<Max_Tech_Level> CIS, 5 </Max_Tech_Level>
+
+		<Starting_Credits> CSA,  20000 </Starting_Credits>
+		<Starting_Tech_Level> CSA, 1 </Starting_Tech_Level>
+		<Max_Tech_Level> CSA, 5 </Max_Tech_Level>
+
+		<Starting_Credits> Republic,  15000 </Starting_Credits>
+		<Starting_Tech_Level> Republic, 1 </Starting_Tech_Level>
+		<Max_Tech_Level> Republic, 5 </Max_Tech_Level>
+
+		<Starting_Credits> Warlords,  15000 </Starting_Credits>
+		<Starting_Tech_Level> Warlords, 1 </Starting_Tech_Level>
+		<Max_Tech_Level> Warlords, 5 </Max_Tech_Level>
+
+		<Starting_Credits> Sith,  15000 </Starting_Credits>
+		<Starting_Tech_Level> Sith, 1 </Starting_Tech_Level>
+		<Max_Tech_Level> Sith, 5 </Max_Tech_Level>
+
+		<!-- Criminal Underworld -->
+		<Starting_Forces> Underworld, Smugglers_Run_WW, Underworld_Star_Base_2 </Starting_Forces>
+		
+		<Starting_Forces> Underworld, Tatooine_WW, Underworld_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Underworld, Tatooine_WW, U_Admin_Offices </Starting_Forces>
+		<Starting_Forces> Underworld, Tatooine_WW, U_Satellite_Defence_Grid </Starting_Forces>
+		<Starting_Forces> Underworld, Tatooine_WW, U_Shipyard_1 </Starting_Forces>
+		<Starting_Forces> Underworld, Tatooine_WW, U_Shipyard_2 </Starting_Forces>
+		<Starting_Forces> Underworld, Tatooine_WW, U_Golan_1 </Starting_Forces>
+
+		<Starting_Forces> Underworld, Tatooine_WW, Criminal_Palace_WW_Barren </Starting_Forces>
+		<Starting_Forces> Underworld, Tatooine_WW, Mining_Facility_U_Barren </Starting_Forces>
+		<Starting_Forces> Underworld, Tatooine_WW, Mining_Facility_U_Barren </Starting_Forces>
+		<Starting_Forces> Underworld, Tatooine_WW, Mining_Facility_U_Barren </Starting_Forces>
+		<Starting_Forces> Underworld, Tatooine_WW, Mercenary_TD_Regiment </Starting_Forces>
+		<Starting_Forces> Underworld, Tatooine_WW, Mercenary_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> Underworld, Tatooine_WW, Mercenary_Tank_Regiment </Starting_Forces>
+
+		<Starting_Forces> Underworld, Ryloth_WW, Underworld_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Underworld, Ryloth_WW, U_Admin_Offices </Starting_Forces>
+		<Starting_Forces> Underworld, Ryloth_WW, U_Satellite_Defence_Grid </Starting_Forces>
+		<Starting_Forces> Underworld, Ryloth_WW, U_Shipyard_1 </Starting_Forces>
+		<Starting_Forces> Underworld, Ryloth_WW, U_Shipyard_2 </Starting_Forces>
+
+		<Starting_Forces> Underworld, Ryloth_WW, Underworld_Outpost_Barren </Starting_Forces> 
+		<Starting_Forces> Underworld, Ryloth_WW, Hutt_Palace_Barren </Starting_Forces>
+		<Starting_Forces> Underworld, Ryloth_WW, Scrapyard_Barren </Starting_Forces>
+		<Starting_Forces> Underworld, Ryloth_WW, Starport_Barren </Starting_Forces>
+		<Starting_Forces> Underworld, Ryloth_WW, Droid_Tank_Regiment</Starting_Forces>
+		<Starting_Forces> Underworld, Ryloth_WW, Droid_Armored_Infantry</Starting_Forces>
+		<Starting_Forces> Underworld, Ryloth_WW, Mercenary_TD_Regiment</Starting_Forces>
+
+		<Starting_Forces> Underworld, Arkanis_WW, Underworld_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Underworld, Arkanis_WW, U_Admin_Offices</Starting_Forces>
+		<Starting_Forces> Underworld, Arkanis_WW, U_Satellite_Defence_Grid</Starting_Forces>
+		<Starting_Forces> Underworld, Arkanis_WW, U_Shipyard_1 </Starting_Forces>
+		<Starting_Forces> Underworld, Arkanis_WW, U_Shipyard_2 </Starting_Forces>
+		<Starting_Forces> Underworld, Arkanis_WW, U_Golan_1 </Starting_Forces>
+
+		<Starting_Forces> Underworld, Arkanis_WW, Underworld_Outpost_Temperate </Starting_Forces> <!--UW secondary mining world-->
+		<Starting_Forces> Underworld, Arkanis_WW, Droid_Tank_Regiment</Starting_Forces>
+		<Starting_Forces> Underworld, Arkanis_WW, Droid_Armored_Infantry</Starting_Forces>
+		<Starting_Forces> Underworld, Arkanis_WW, Droid_Armored_Infantry</Starting_Forces>
+		<Starting_Forces> Underworld, Arkanis_WW, Marauder_Missile_Cruiser_U</Starting_Forces>
+		<Starting_Forces> Underworld, Arkanis_WW, Marauder_Missile_Cruiser_U</Starting_Forces>
+		<Starting_Forces> Underworld, Arkanis_WW, Marauder_Missile_Cruiser_U</Starting_Forces>
+		<Starting_Forces> Underworld, Arkanis_WW, Marauder_Missile_Cruiser_U</Starting_Forces>
+		<Starting_Forces> Underworld, Arkanis_WW, Marauder_Missile_Cruiser_U</Starting_Forces>
+
+		<Starting_Forces> Underworld, Socorro_WW, Underworld_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Underworld, Socorro_WW, U_Admin_Offices </Starting_Forces>
+		<Starting_Forces> Underworld, Socorro_WW, U_Satellite_Defence_Grid </Starting_Forces>
+		<Starting_Forces> Underworld, Socorro_WW, U_Shipyard_1 </Starting_Forces>
+
+		<Starting_Forces> Underworld, Socorro_WW, Underworld_Outpost_Urban </Starting_Forces>
+		<Starting_Forces> Underworld, Socorro_WW, Hutt_Palace_Urban </Starting_Forces>
+		<Starting_Forces> Underworld, Socorro_WW, Cantina_Urban </Starting_Forces>
+		<Starting_Forces> Underworld, Socorro_WW, Droid_Tank_Regiment</Starting_Forces>
+		<Starting_Forces> Underworld, Socorro_WW, Droid_Armored_Infantry</Starting_Forces>
+		<Starting_Forces> Underworld, Socorro_WW, Mercenary_TD_Regiment</Starting_Forces>
+
+		<Starting_Forces> Underworld, Atzerri_WW, Underworld_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Underworld, Atzerri_WW, U_Admin_Offices </Starting_Forces>
+		<Starting_Forces> Underworld, Atzerri_WW, U_Satellite_Defence_Grid </Starting_Forces>
+		<Starting_Forces> Underworld, Atzerri_WW, U_Shipyard_1 </Starting_Forces>
+		<Starting_Forces> Underworld, Atzerri_WW, Underworld_Outpost_Barren </Starting_Forces>
+		<Starting_Forces> Underworld, Atzerri_WW, Mining_Facility_U_Barren </Starting_Forces> <!-- high prob of being lost -->
+		<Starting_Forces> Underworld, Atzerri_WW, Scrapyard_Barren </Starting_Forces>
+		<Starting_Forces> Underworld, Atzerri_WW, Droid_Tank_Regiment</Starting_Forces>
+		<Starting_Forces> Underworld, Atzerri_WW, Mercenary_TD_Regiment</Starting_Forces>
+
+		<Starting_Forces> Underworld, Teth_WW, Underworld_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Underworld, Teth_WW, U_Satellite_Defence_Grid </Starting_Forces>
+		<Starting_Forces> Underworld, Teth_WW, Underworld_Outpost_Barren </Starting_Forces>
+		<Starting_Forces> Underworld, Teth_WW, Mining_Facility_U_Barren </Starting_Forces> <!-- high prob of being lost -->
+		<Starting_Forces> Underworld, Teth_WW, Droid_Tank_Regiment</Starting_Forces>
+		<Starting_Forces> Underworld, Teth_WW, Droid_Armored_Infantry</Starting_Forces>
+		<Starting_Forces> Underworld, Teth_WW, Mercenary_TD_Regiment</Starting_Forces>
+
+		<Starting_Forces> Underworld, Utegetu_Nebula_WW, Underworld_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Underworld, Utegetu_Nebula_WW, U_Satellite_Defence_Grid </Starting_Forces>
+
+		<!-- Hutt units in the UW starting core -->		
+		
+		<Starting_Forces> Cartels, VergessoAsteroids_WW, Minor_Starbase_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, VergessoAsteroids_WW, Minor_Shipyard_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, VergessoAsteroids_WW, Trireme_Gunship </Starting_Forces>
+		<Starting_Forces> Cartels, VergessoAsteroids_WW, Trireme_Gunship </Starting_Forces>
+		<Starting_Forces> Cartels, VergessoAsteroids_WW, Hutt_Medium_Frigate_HC </Starting_Forces>
+		<Starting_Forces> Cartels, VergessoAsteroids_WW, Hutt_Medium_Frigate_HC </Starting_Forces>
+		<Starting_Forces> Cartels, VergessoAsteroids_WW, Hutt_Medium_Frigate_HC </Starting_Forces>
+		<Starting_Forces> Cartels, VergessoAsteroids_WW, Hutt_MRCruiser_HC </Starting_Forces>
+		<Starting_Forces> Cartels, VergessoAsteroids_WW, Hutt_Destroyer_HC </Starting_Forces>
+		<Starting_Forces> Cartels, VergessoAsteroids_WW, Privateer_Battleship_HC </Starting_Forces>		<!-- Lets see if this goes well, if not, remove this -->
+
+		<Starting_Forces> Cartels, Hypori_WW, Minor_Starbase_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Hypori_WW, Minor_Shipyard_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Hypori_WW, Trireme_Gunship </Starting_Forces>
+		<Starting_Forces> Cartels, Hypori_WW, Trireme_Gunship </Starting_Forces>
+		<Starting_Forces> Cartels, Hypori_WW, Hutt_Destroyer_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Hypori_WW, Hutt_Destroyer_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Hypori_WW, Hutt_Destroyer_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Hypori_WW, Minor_Outpost_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Hypori_WW, Hutt_Skiff_Regiment</Starting_Forces>
+		<Starting_Forces> Cartels, Hypori_WW, CIS_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> Cartels, Hypori_WW, CIS_Assault_Regiment </Starting_Forces>
+
+		<Starting_Forces> Cartels, Geonosis_WW, Minor_Starbase_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Geonosis_WW, Minor_Shipyard_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Geonosis_WW, Hutt_MRCruiser_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Geonosis_WW, Hutt_MRCruiser_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Geonosis_WW, Minor_Outpost_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Geonosis_WW, Hutt_Skiff_Regiment</Starting_Forces>
+		<Starting_Forces> Cartels, Geonosis_WW, CIS_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> Cartels, Geonosis_WW, CIS_Assault_Regiment </Starting_Forces>
+		
+		<Starting_Forces> Cartels, Daalang_WW, Minor_Starbase_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Daalang_WW, Minor_Shipyard_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Daalang_WW, Hutt_Medium_Frigate_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Daalang_WW, Trireme_Gunship </Starting_Forces>
+		<Starting_Forces> Cartels, Daalang_WW, Hutt_Medium_Frigate_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Daalang_WW, Minor_Outpost_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Daalang_WW, Hutt_Skiff_Regiment</Starting_Forces>
+		<Starting_Forces> Cartels, Daalang_WW, Hutt_Skiff_Regiment</Starting_Forces>
+		
+		<Starting_Forces> Cartels, Druckenwell_WW, Minor_Starbase_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Druckenwell_WW, Hutt_Medium_Frigate_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Druckenwell_WW, Trireme_Gunship </Starting_Forces>
+		<Starting_Forces> Cartels, Druckenwell_WW, Hutt_Medium_Frigate_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Druckenwell_WW, Minor_Outpost_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Druckenwell_WW, Hutt_Skiff_Regiment</Starting_Forces>
+		<Starting_Forces> Cartels, Druckenwell_WW, Hutt_Skiff_Regiment</Starting_Forces>
+		
+		<Starting_Forces> Cartels, AlzocIII_WW, Minor_Starbase_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, AlzocIII_WW, Minor_Shipyard_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, AlzocIII_WW, Hutt_Medium_Frigate_HC </Starting_Forces>
+		<Starting_Forces> Cartels, AlzocIII_WW, Trireme_Gunship </Starting_Forces>
+		<Starting_Forces> Cartels, AlzocIII_WW, Hutt_Medium_Frigate_HC </Starting_Forces>
+		<Starting_Forces> Cartels, AlzocIII_WW, Minor_Outpost_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, AlzocIII_WW, Hutt_Skiff_Regiment</Starting_Forces>
+		<Starting_Forces> Cartels, AlzocIII_WW, Hutt_Skiff_Regiment</Starting_Forces>
+
+		<Starting_Forces> Cartels, Christophisis_WW, Minor_Starbase_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Christophisis_WW, Minor_Shipyard_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Christophisis_WW, Trireme_Gunship </Starting_Forces>
+		<Starting_Forces> Cartels, Christophisis_WW, Trireme_Gunship </Starting_Forces>
+		<Starting_Forces> Cartels, Christophisis_WW, Hutt_Medium_Frigate_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Christophisis_WW, Hutt_Medium_Frigate_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Christophisis_WW, Hutt_Destroyer_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Christophisis_WW, Hutt_Destroyer_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Christophisis_WW, Hutt_Destroyer_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Christophisis_WW, Minor_Outpost_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Christophisis_WW, Hutt_Skiff_Regiment</Starting_Forces>
+		<Starting_Forces> Cartels, Christophisis_WW, Hutt_Skiff_Regiment</Starting_Forces>
+
+		<!-- Rebellion -->
+
+		<Starting_Forces> Rebel, Yavin_WW, Rebel_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, R_Admin_Offices </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, R_Shipyard_1 </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, R_Shipyard_2 </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, R_Research_Institute </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, CR-90_Corvette </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, CR-90_Corvette </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, Marauder_Missile_Cruiser </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, Marauder_Missile_Cruiser </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, Quasar_Carrier_R </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, Assault_Frigate_Mark_II </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, Z-95_Squadron_R </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, Z-95_Squadron_R </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, Z-95_Squadron_R </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, T-Wing_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, T-Wing_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, Cutlass_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, Cutlass_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, Hullcracker_Squadron_R </Starting_Forces>
+
+		<Starting_Forces> Rebel, Yavin_WW, Base_One_WW_Temperate </Starting_Forces> <!-- Rebel main production world -->
+		<Starting_Forces> Rebel, Yavin_WW, Rebel_Base_Core_Temperate </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, Workshop_Base_Temperate </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, Trained_Tank_Light_Regiment </Starting_Forces>
+		<Starting_Forces> Rebel, Yavin_WW, Volunteer_Armored_Regiment </Starting_Forces>
+
+		<Starting_Forces> Rebel, Dantooine_WW, Rebel_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, R_Admin_Offices </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, R_Shipyard_1 </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, R_Shipyard_2 </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, CR-90_Corvette </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, Marauder_Missile_Cruiser </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, Marauder_Missile_Cruiser </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, Assault_Frigate_Mark_II </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, Z-95_Squadron_R </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, Z-95_Squadron_R </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, Z-95_Squadron_R </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, T-Wing_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, T-Wing_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, Hullcracker_Squadron_R </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, Cutlass_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, Cutlass_Squadron </Starting_Forces>
+
+		<Starting_Forces> Rebel, Dantooine_WW, Rebel_Outpost_Temperate </Starting_Forces> <!-- Rebel secondary production world -->
+		<Starting_Forces> Rebel, Dantooine_WW, Rebel_Base_Core_Temperate </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, Volunteer_Tank_Light_Regiment </Starting_Forces>
+		<Starting_Forces> Rebel, Dantooine_WW, Volunteer_Armored_Regiment </Starting_Forces>
+
+		<Starting_Forces> Rebel, Hoth_WW, Rebel_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Rebel, Hoth_WW, R_Admin_Offices </Starting_Forces>
+		<Starting_Forces> Rebel, Hoth_WW, Z-95_Squadron_R </Starting_Forces>
+		<Starting_Forces> Rebel, Hoth_WW, Hullcracker_Squadron_R </Starting_Forces>
+		<Starting_Forces> Rebel, Hoth_WW, Hullcracker_Squadron_R </Starting_Forces>
+		<Starting_Forces> Rebel, Hoth_WW, T-Wing_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Hoth_WW, T-Wing_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Hoth_WW, Cutlass_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Hoth_WW, Cutlass_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Hoth_WW, R_Shipyard_1 </Starting_Forces>
+		<Starting_Forces> Rebel, Hoth_WW, R_Shipyard_2 </Starting_Forces>
+
+		<Starting_Forces> Rebel, Hoth_WW, Rebel_Outpost_Barren </Starting_Forces>
+		<Starting_Forces> Rebel, Hoth_WW, Echo_Base_Hoth </Starting_Forces> <!-- Hoth is unsuited to house an entire base + modules but Echo Base unlocks all T1 regiments -->
+		<Starting_Forces> Rebel, Hoth_WW, Mining_Company_R_Barren </Starting_Forces>
+		<Starting_Forces> Rebel, Hoth_WW, Mining_Facility_R_Barren </Starting_Forces>
+		<Starting_Forces> Rebel, Hoth_WW, Trained_Tank_Light_Regiment </Starting_Forces>
+		<Starting_Forces> Rebel, Hoth_WW, Volunteer_Armored_Regiment </Starting_Forces> <!-- stronger start regiments will give the Rebels hopefully an edge taking Bespin -->
+
+		<Starting_Forces> Pirates, SJWorlds_WW, Pirate_Starbase_Lv1 </Starting_Forces> <!-- Entire sector up for grabs, Rebellion and Warlords both start close here, so strong garrison. Warlords start weak on Eriadu -->
+		<Starting_Forces> Pirates, SJWorlds_WW, Supa_Fighter_Squadron</Starting_Forces>
+		<Starting_Forces> Pirates, SJWorlds_WW, Supa_Fighter_Squadron</Starting_Forces>
+		<Starting_Forces> Pirates, SJWorlds_WW, Acclamator</Starting_Forces>
+		<Starting_Forces> Pirates, SJWorlds_WW, Acclamator</Starting_Forces>
+		<Starting_Forces> Pirates, SJWorlds_WW, Sabaoth_Destroyer</Starting_Forces>
+
+		<!-- Empire -->
+
+		<Starting_Forces> Empire, Coruscant_WW, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_WW, E_Satellite_Defence_Grid </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_WW, E_Admin_Offices </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_WW, E_Shipyard_1 </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_WW, E_Shipyard_2 </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_WW, E_Golan_1 </Starting_Forces> <!-- Golan 2, you're not meant to lose Coruscant at any point to warlords/other attacks-->
+		<Starting_Forces> Empire, Coruscant_WW, Empire_Fleet_Commander_Captain </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_WW, Gladiator_Star_Destroyer </Starting_Forces>
+
+		<Starting_Forces> Empire, Coruscant_WW, Imperial_Palace_WW_Urban </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_WW, Empire_Base_Core_Urban </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_WW, Tower_Defense_Grid_E </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_WW, Flak_Tower_Defense_Grid_E </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_WW, Trooper_Walker_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_WW, Trooper_Walker_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_WW, Trooper_Tank_Regiment </Starting_Forces>
+
+		<Starting_Forces> Empire, Endor_WW, Empire_Star_Base_2 </Starting_Forces> <!-- Sector mechanic insert here -->
+		<Starting_Forces> Empire, Endor_WW, E_Satellite_Defence_Grid </Starting_Forces>
+		<Starting_Forces> Empire, Endor_WW, E_Golan_1 </Starting_Forces>
+
+		<Starting_Forces> Empire, Endor_WW, Empire_Outpost_Sector </Starting_Forces> <!-- Endor acts as a fortress world -->
+		<Starting_Forces> Empire, Endor_WW, Empire_Fortress_Sector </Starting_Forces>
+		<Starting_Forces> Empire, Endor_WW, Empire_Watchtower </Starting_Forces>
+		<Starting_Forces> Empire, Endor_WW, Army_Armored_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Endor_WW, Trooper_Walker_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Endor_WW, Army_Tank_Regiment </Starting_Forces>
+
+		<Starting_Forces> Empire, Anaxes_WW, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Anaxes_WW, E_Admin_Offices </Starting_Forces>
+		<Starting_Forces> Empire, Anaxes_WW, E_Shipyard_1</Starting_Forces>
+		<Starting_Forces> Empire, Anaxes_WW, E_Satellite_Defence_Grid </Starting_Forces>
+
+		<Starting_Forces> Empire, Anaxes_WW, Empire_Outpost_Temperate</Starting_Forces>
+		<Starting_Forces> Empire, Anaxes_WW, Administration_Office_Temperate</Starting_Forces>
+		<Starting_Forces> Empire, Anaxes_WW, Empire_Base_Core_Temperate </Starting_Forces>
+		<Starting_Forces> Empire, Anaxes_WW, Factory_Base_Temperate</Starting_Forces>
+		<Starting_Forces> Empire, Anaxes_WW, Army_Walker_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Anaxes_WW, Army_Tank_Regiment </Starting_Forces>
+
+		<Starting_Forces> Empire, Carida_WW, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Carida_WW, E_Shipyard_1</Starting_Forces>
+		<Starting_Forces> Empire, Carida_WW, E_Satellite_Defence_Grid </Starting_Forces>
+		<Starting_Forces> Empire, Carida_WW, Acclamator_II </Starting_Forces>
+
+		<Starting_Forces> Empire, Carida_WW, Empire_Outpost_Urban</Starting_Forces>
+		<Starting_Forces> Empire, Carida_WW, Administration_Office_Urban</Starting_Forces>
+		<Starting_Forces> Empire, Carida_WW, Empire_Base_Core_Urban </Starting_Forces>
+		<Starting_Forces> Empire, Carida_WW, Hangar_Base_Urban </Starting_Forces>
+		<Starting_Forces> Empire, Carida_WW, Army_Armored_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Carida_WW, Army_Walker_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Carida_WW, Army_Tank_Regiment </Starting_Forces>
+
+		<Starting_Forces> Empire, Kuat_WW, Empire_Star_Base_2 </Starting_Forces> <!-- System mechanic insert here -->
+		<Starting_Forces> Empire, Kuat_WW, E_Admin_Offices </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_WW, E_Satellite_Defence_Grid </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_WW, E_Shipyard_1 </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_WW, E_Shipyard_2 </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_WW, E_Shipyard_3 </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_WW, E_Golan_1 </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_WW, Star_Destroyer </Starting_Forces>
+
+		<Starting_Forces> Empire, Kuat_WW, Empire_Outpost_Urban </Starting_Forces> <!-- Kuat acts as a fortress world -->
+		<Starting_Forces> Empire, Kuat_WW, Government_Palace_Urban </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_WW, Empire_Fortress_Urban </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_WW, Empire_Watchtower </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_WW, Tower_Defense_Grid_E </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_WW, Flak_Tower_Defense_Grid_E </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_WW, Army_Armored_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_WW, Army_Walker_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_WW, Army_Tank_Regiment </Starting_Forces>
+
+		<Starting_Forces> Empire, Loronar_WW, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Loronar_WW, E_Satellite_Defence_Grid </Starting_Forces>
+		<Starting_Forces> Empire, Loronar_WW, E_Golan_1 </Starting_Forces>
+
+		<Starting_Forces> Empire, Loronar_WW, Empire_Outpost_Temperate </Starting_Forces> <!-- secondary production world -->
+		<Starting_Forces> Empire, Loronar_WW, Empire_Base_Core_Temperate </Starting_Forces>
+		<Starting_Forces> Empire, Loronar_WW, Factory_Base_Temperate </Starting_Forces>
+		<Starting_Forces> Empire, Loronar_WW, Factory_Heavy_Base_Temperate </Starting_Forces>
+		<Starting_Forces> Empire, Loronar_WW, Army_Armored_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Loronar_WW, Army_Walker_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Loronar_WW, Army_Tank_Regiment </Starting_Forces>
+
+		<Starting_Forces> Empire, Commenor_WW, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Empire, Commenor_WW, E_Satellite_Defence_Grid </Starting_Forces>
+
+		<Starting_Forces> Empire, Commenor_WW, Empire_Outpost_Barren</Starting_Forces> <!-- main mining world, very valuable -->
+		<Starting_Forces> Empire, Commenor_WW, Mining_Company_E_Barren </Starting_Forces>
+		<Starting_Forces> Empire, Commenor_WW, Mining_Facility_E_Barren </Starting_Forces>
+		<Starting_Forces> Empire, Commenor_WW, Mining_Facility_2_E_Barren </Starting_Forces>
+		<Starting_Forces> Empire, Commenor_WW, Army_Armored_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Commenor_WW, Army_Walker_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Commenor_WW, Army_Tank_Regiment </Starting_Forces>
+
+		<Starting_Forces> Empire, Champala_WW, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Champala_WW, E_Satellite_Defence_Grid </Starting_Forces>
+
+		<Starting_Forces> Empire, Champala_WW, Empire_Outpost_Temperate</Starting_Forces>
+		<Starting_Forces> Empire, Champala_WW, Agricultural_Community_E_Temperate </Starting_Forces>
+		<Starting_Forces> Empire, Champala_WW, Mining_Facility_E_Temperate </Starting_Forces>
+		<Starting_Forces> Empire, Champala_WW, Army_Armored_Regiment </Starting_Forces> <!-- weaker start regiments for income worlds -->
+		<Starting_Forces> Empire, Champala_WW, Army_Armored_Regiment </Starting_Forces>
+
+		<Starting_Forces> Empire, Fondor_WW, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Fondor_WW, E_Satellite_Defence_Grid </Starting_Forces>
+		<Starting_Forces> Empire, Fondor_WW, E_Shipyard_1 </Starting_Forces>
+		<Starting_Forces> Empire, Fondor_WW, E_Shipyard_2 </Starting_Forces>
+		<Starting_Forces> Empire, Fondor_WW, E_Admin_Offices </Starting_Forces>
+		<Starting_Forces> Empire, Fondor_WW, Vindicator_Cruiser </Starting_Forces>
+
+		<Starting_Forces> Empire, Fondor_WW, Empire_Outpost_Urban</Starting_Forces>
+		<Starting_Forces> Empire, Fondor_WW, Empire_Base_Core_Urban </Starting_Forces>
+		<Starting_Forces> Empire, Fondor_WW, Government_Palace_Urban</Starting_Forces>
+		<Starting_Forces> Empire, Fondor_WW, Tower_Defense_Grid_E</Starting_Forces>
+		<Starting_Forces> Empire, Fondor_WW, Trooper_Walker_Regiment </Starting_Forces> <!-- stronger start regiments to give the Empire an edge -->
+		<Starting_Forces> Empire, Fondor_WW, Trooper_Walker_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Fondor_WW, Trooper_Tank_Regiment </Starting_Forces>
+
+		<Starting_Forces> Empire, Abregado_Rae_WW, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Abregado_Rae_WW, E_Admin_Offices </Starting_Forces>
+
+		<Starting_Forces> Empire, Abregado_Rae_WW, Empire_Outpost_Temperate</Starting_Forces>
+		<Starting_Forces> Empire, Abregado_Rae_WW, Empire_Base_Core_Temperate </Starting_Forces>
+		<Starting_Forces> Empire, Abregado_Rae_WW, Barracks_Base_Temperate </Starting_Forces>
+		<Starting_Forces> Empire, Abregado_Rae_WW, Factory_Base_Temperate </Starting_Forces>
+		<Starting_Forces> Empire, Abregado_Rae_WW, Trooper_Walker_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, Abregado_Rae_WW, Trooper_Tank_Regiment </Starting_Forces>
+
+		<Starting_Forces> Empire, The_Maw_WW, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, The_Maw_WW, E_Satellite_Defence_Grid </Starting_Forces>
+		<Starting_Forces> Empire, The_Maw_WW, E_Admin_Offices </Starting_Forces>
+		<Starting_Forces> Empire, The_Maw_WW, E_Trade_Hub </Starting_Forces>
+
+		<Starting_Forces> Empire, The_Maw_WW, Empire_Outpost_Barren </Starting_Forces>
+		<Starting_Forces> Empire, The_Maw_WW, Mining_Company_E_Barren </Starting_Forces>
+		<Starting_Forces> Empire, The_Maw_WW, Mining_Facility_E_Barren </Starting_Forces>
+		<Starting_Forces> Empire, The_Maw_WW, Mining_Facility_2_E_Barren </Starting_Forces>
+		<Starting_Forces> Empire, The_Maw_WW, Army_Armored_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, The_Maw_WW, Army_Walker_Regiment </Starting_Forces>
+		<Starting_Forces> Empire, The_Maw_WW, Army_Tank_Regiment </Starting_Forces>
+
+		<!-- outer regions of the Empire are piecemeal for Rebels and left to die. Seperate from core with powerful pirate garrisons!-->
+		<Starting_Forces> Empire, Celanon_WW, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Celanon_WW, E_Admin_Offices </Starting_Forces>
+		<Starting_Forces> Empire, Celanon_WW, E_Shipyard_1 </Starting_Forces>
+
+		<Starting_Forces> Empire, Celanon_WW, Empire_Outpost_Barren</Starting_Forces>
+		<Starting_Forces> Empire, Celanon_WW, Mining_Company_E_Barren </Starting_Forces>
+		<Starting_Forces> Empire, Celanon_WW, Mining_Facility_E_Barren </Starting_Forces>
+		<Starting_Forces> Empire, Celanon_WW, Mining_Facility_2_E_Barren </Starting_Forces>
+		<Starting_Forces> Empire, Celanon_WW, Army_Walker_Regiment </Starting_Forces> <!-- reduced ground garrisons-->
+
+		<Starting_Forces> Empire, Botajef_WW, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Botajef_WW, E_Admin_Offices </Starting_Forces>
+		<Starting_Forces> Empire, Botajef_WW, E_Shipyard_1 </Starting_Forces>
+
+		<Starting_Forces> Empire, Botajef_WW, Empire_Outpost_Urban</Starting_Forces>
+		<Starting_Forces> Empire, Botajef_WW, Empire_Base_Core_Urban </Starting_Forces>
+		<Starting_Forces> Empire, Botajef_WW, Army_Armored_Regiment </Starting_Forces> <!-- reduced ground garrisons-->
+
+		<Starting_Forces> Pirates, Taris_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+		<Starting_Forces> Pirates, Taris_WW, Supa_Fighter_Squadron</Starting_Forces>
+		<Starting_Forces> Pirates, Taris_WW, Supa_Fighter_Squadron</Starting_Forces>
+		<Starting_Forces> Pirates, Taris_WW, Marauder_Missile_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Taris_WW, Marauder_Missile_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Taris_WW, Dreadnaught_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Taris_WW, Dreadnaught_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Taris_WW, Acclamator</Starting_Forces>
+
+		<!-- Imperial Warlords: 
+	Meant to be a serious obstacle to early game Empires control of the Core. 
+	Some parts are controlled by pirates, some by Republic loyalists, others by Imperial defectors or corrupt politicians.
+	Starts with the very defensive Csilla & Chiss Space sector, to ensure they remain relevant lategame. The Empire will never be rid of the Warlords fully. -->
+
+		<Starting_Forces> Warlords, Csilla_WW, Minor_Starbase_Warlords </Starting_Forces> <!-- Insert Sector mechanic here -->
+		<Starting_Forces> Warlords, Csilla_WW, Minor_Shipyard_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Csilla_WW, Warlords_Golan_1 </Starting_Forces>
+		<Starting_Forces> Warlords, Csilla_WW, Minor_Outpost_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Csilla_WW, Gladiator_Star_Destroyer_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Csilla_WW, Gladiator_Star_Destroyer_Warlords </Starting_Forces>
+
+		<Starting_Forces> Warlords, Fresia_WW, Minor_Starbase_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, Minor_Shipyard_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, Star_Destroyer_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, Vindicator_Cruiser_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, Vindicator_Cruiser_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, X-Wing_Squadron_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, X-Wing_Squadron_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, X-Wing_Squadron_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, X-Wing_Squadron_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, X-Wing_Squadron_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, X-Wing_Squadron_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, X-Wing_Squadron_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, X-Wing_Squadron_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, Minor_Outpost_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, Army_Mixed_Regiment </Starting_Forces>
+		<Starting_Forces> Warlords, Fresia_WW, Army_Mixed_Regiment </Starting_Forces>
+
+		<Starting_Forces> Warlords, Byss_WW, Minor_Starbase_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Byss_WW, Venator_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Byss_WW, Venator_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Byss_WW, Vindicator_Cruiser_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Byss_WW, Vindicator_Cruiser_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Byss_WW, Vindicator_Cruiser_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Byss_WW, Vindicator_Cruiser_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Byss_WW, Minor_Outpost_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Byss_WW, Army_Mixed_Regiment </Starting_Forces>
+
+		<Starting_Forces> Warlords, Ansion_WW, Minor_Starbase_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Ansion_WW, Minor_Shipyard_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Ansion_WW, Minor_Outpost_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Ansion_WW, Vindicator_Cruiser_Warlords </Starting_Forces>
+
+		<Starting_Forces> Warlords, Eriadu_WW, Minor_Starbase_Warlords </Starting_Forces> <!-- weak start next to the Senex-Juvex Sector -->
+		<Starting_Forces> Warlords, Eriadu_WW, Minor_Shipyard_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Eriadu_WW, Minor_Outpost_Warlords </Starting_Forces>
+		<Starting_Forces> Warlords, Eriadu_WW, Army_Mixed_Regiment </Starting_Forces>
+
+
+		<!-- Republic Remnants:
+	Has a few worlds in the core, and a several outposts spread around the galaxy.
+	Should fight the Empire for control of the Core initially, but should get less threatening as time goes on. In the outer regions they should eventually also get beaten down by other factions. -->
+
+		<Starting_Forces> Republic, Corellia_WW, Minor_Starbase_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Corellia_WW, Minor_Shipyard_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Corellia_WW, Minor_Outpost_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Corellia_WW, Republic_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> Republic, Corellia_WW, Tower_Defense_Grid_Minor </Starting_Forces>
+		<Starting_Forces> Republic, Corellia_WW, Venator_Rep </Starting_Forces>
+		<Starting_Forces> Republic, Corellia_WW, Venator_Rep </Starting_Forces>
+		<Starting_Forces> Republic, Corellia_WW, Acclamator_Rep </Starting_Forces>
+		
+		<Starting_Forces> Republic, Brentaal_WW, Minor_Starbase_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Brentaal_WW, Minor_Shipyard_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Brentaal_WW, Minor_Outpost_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Brentaal_WW, Republic_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> Republic, Brentaal_WW, Republic_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> Republic, Brentaal_WW, Republic_Golan_1 </Starting_Forces> <!-- To seperate Coruscant and Kuat -->
+
+		<Starting_Forces> Republic, Rendili_WW, Minor_Starbase_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Rendili_WW, Minor_Shipyard_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Rendili_WW, Venator_Rep </Starting_Forces>
+		<Starting_Forces> Republic, Rendili_WW, Venator_Rep </Starting_Forces>
+		<Starting_Forces> Republic, Rendili_WW, Minor_Outpost_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Rendili_WW, Republic_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> Republic, Rendili_WW, Tower_Defense_Grid_Minor </Starting_Forces>
+
+		<Starting_Forces> Republic, Alderaan_WW, Minor_Starbase_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Alderaan_WW, Minor_Outpost_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Alderaan_WW, Mining_Facility_Minor_Barren </Starting_Forces>
+		<Starting_Forces> Republic, Alderaan_WW, Republic_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> Republic, Alderaan_WW, Republic_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> Republic, Alderaan_WW, Venator_Rep </Starting_Forces>
+		<Starting_Forces> Republic, Alderaan_WW, Venator_Rep </Starting_Forces>
+		<Starting_Forces> Republic, Alderaan_WW, Victory_Destroyer_Rep </Starting_Forces>
+
+		<Starting_Forces> Republic, Kashyyyk_WW, Minor_Starbase_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Kashyyyk_WW, Minor_Shipyard_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Kashyyyk_WW, Minor_Outpost_Republic</Starting_Forces>
+		<Starting_Forces> Republic, Kashyyyk_WW, Republic_Tank_Regiment</Starting_Forces>
+		<Starting_Forces> Republic, Kashyyyk_WW, Tower_Defense_Grid_Minor </Starting_Forces>
+		<Starting_Forces> Republic, Kashyyyk_WW, Venator_Rep </Starting_Forces>
+		<Starting_Forces> Republic, Kashyyyk_WW, Venator_Rep </Starting_Forces>
+		<Starting_Forces> Republic, Kashyyyk_WW, Acclamator_Rep </Starting_Forces>
+		<Starting_Forces> Republic, Kashyyyk_WW, Secutor_Rep </Starting_Forces>
+
+		<Starting_Forces> Republic, Kamino_WW, Minor_Starbase_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Kamino_WW, Venator_Rep </Starting_Forces>
+		<Starting_Forces> Republic, Kamino_WW, Venator_Rep </Starting_Forces>
+		<Starting_Forces> Republic, Kamino_WW, Minor_Shipyard_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Kamino_WW, Minor_Outpost_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Kamino_WW, Republic_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> Republic, Kamino_WW, Tower_Defense_Grid_Minor </Starting_Forces>
+
+		<Starting_Forces> Republic, Rothana_WW, Minor_Starbase_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Rothana_WW, Minor_Shipyard_Republic</Starting_Forces>
+		<Starting_Forces> Republic, Rothana_WW, Minor_Outpost_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Rothana_WW, Republic_Tank_Regiment </Starting_Forces>
+
+		<Starting_Forces> Republic, Naboo_WW, Minor_Starbase_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Naboo_WW, Venator_Rep </Starting_Forces>
+		<Starting_Forces> Republic, Naboo_WW, Minor_Outpost_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Naboo_WW, Republic_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> Republic, Naboo_WW, N1_Squadron_Rep </Starting_Forces>
+		<Starting_Forces> Republic, Naboo_WW, N1_Squadron_Rep </Starting_Forces>
+		<Starting_Forces> Republic, Naboo_WW, N1_Squadron_Rep </Starting_Forces>
+
+		<Starting_Forces> Republic, Scarif_WW, Minor_Starbase_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Scarif_WW, Minor_Shipyard_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Scarif_WW, Minor_Outpost_Republic </Starting_Forces>
+		<Starting_Forces> Republic, Scarif_WW, Republic_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> Republic, Scarif_WW, Tower_Defense_Grid_Minor </Starting_Forces>
+
+
+		<!-- Corporate Sector Authority:
+	Spawn in the very corner with a link to Rebel and Sith controlled space. Meant to engage the Sith, so the Rebellion have time to expand -->
+
+		<Starting_Forces> CSA, Etti_IV_WW, Minor_Starbase_CSA </Starting_Forces> <!-- Sector mechanic insert here -->
+		<Starting_Forces> CSA, Etti_IV_WW, Minor_Shipyard_CSA </Starting_Forces>
+		<Starting_Forces> CSA, Etti_IV_WW, CSA_Golan_1 </Starting_Forces>
+		<Starting_Forces> CSA, Etti_IV_WW, Minor_Outpost_CSA </Starting_Forces>
+		<Starting_Forces> CSA, Etti_IV_WW, Minor_Trade_Hub </Starting_Forces>
+		<Starting_Forces> CSA, Etti_IV_WW, CSA_Tank_Regiment </Starting_Forces>
+
+		<Starting_Forces> CSA, Bonadan_WW, Minor_Outpost_CSA </Starting_Forces>
+		<Starting_Forces> CSA, Bonadan_WW, CSA_Tank_Regiment</Starting_Forces>
+
+		<Starting_Forces> Pirates, Reltooine_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+		<Starting_Forces> Pirates, Reltooine_WW, Supa_Fighter_Squadron</Starting_Forces> <!-- Extra garrison to hold the CSA at Reltooine and Telos so they engage at Malachor and the Sith instead -->
+		<Starting_Forces> Pirates, Reltooine_WW, Supa_Fighter_Squadron</Starting_Forces>
+		<Starting_Forces> Pirates, Reltooine_WW, Supa_Fighter_Squadron</Starting_Forces>
+		<Starting_Forces> Pirates, Reltooine_WW, Dreadnaught_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Reltooine_WW, Dreadnaught_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Reltooine_WW, Sabaoth_Destroyer</Starting_Forces>
+
+		<Starting_Forces> Pirates, Telos_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+		<Starting_Forces> Pirates, Telos_WW, Supa_Fighter_Squadron</Starting_Forces>
+		<Starting_Forces> Pirates, Telos_WW, Supa_Fighter_Squadron</Starting_Forces>
+		<Starting_Forces> Pirates, Telos_WW, Marauder_Missile_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Telos_WW, Marauder_Missile_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Telos_WW, Dreadnaught_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Telos_WW, Dreadnaught_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Telos_WW, Acclamator</Starting_Forces>
+		<Starting_Forces> Pirates, Telos_WW, Acclamator</Starting_Forces>
+		<Starting_Forces> Pirates, Telos_WW, Acclamator</Starting_Forces>
+		<Starting_Forces> Pirates, Telos_WW, Sabaoth_Destroyer</Starting_Forces>
+
+		<Starting_Forces> Pirates, Zygerria_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+
+		<!-- Sith Cultists:
+	Spawn in the Sith Worlds Sector with a link to Rebel and CSA controlled space. Meant to engage the CSA so the Rebellion has time to expand -->
+
+		<Starting_Forces> Sith, Kaas_WW, Minor_Starbase_Sith </Starting_Forces> <!-- Sector mechanic insert here -->
+		<Starting_Forces> Sith, Kaas_WW, Minor_Shipyard_Sith </Starting_Forces>
+		<Starting_Forces> Sith, Kaas_WW, Sith_Golan_1 </Starting_Forces>
+		<Starting_Forces> Sith, Kaas_WW, Centurion_Battlecruiser_S </Starting_Forces>
+		<Starting_Forces> Sith, Kaas_WW, Sith_Interdictor_S </Starting_Forces>
+		<Starting_Forces> Sith, Kaas_WW, Minor_Trade_Hub </Starting_Forces>
+		<Starting_Forces> Sith, Kaas_WW, Minor_Outpost_Sith </Starting_Forces>
+		<Starting_Forces> Sith, Kaas_WW, Mining_Facility_Minor_Barren </Starting_Forces>
+		<Starting_Forces> Sith, Kaas_WW, Mining_Facility_Minor_Barren </Starting_Forces>
+		<Starting_Forces> Sith, Kaas_WW, Sith_Walker_Regiment </Starting_Forces>
+		<Starting_Forces> Sith, Kaas_WW, Sith_Tank_Regiment </Starting_Forces>
+
+		<Starting_Forces> Sith, Korriban_WW, Minor_Starbase_Sith </Starting_Forces>
+		<Starting_Forces> Sith, Korriban_WW, Minor_Outpost_Sith</Starting_Forces>
+		<Starting_Forces> Sith, Korriban_WW, Tower_Defense_Grid_Minor</Starting_Forces>
+		<Starting_Forces> Sith, Korriban_WW, Mining_Facility_Minor_Temperate</Starting_Forces>
+		<Starting_Forces> Sith, Korriban_WW, Mining_Facility_Minor_Temperate</Starting_Forces>
+
+		<Starting_Forces> Pirates, MalachorV_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Felucia_WW, Pirate_Starbase_Lv1 </Starting_Forces> <!-- Extra garrison to hold the Sith at Felucia so they engage at Malachor and the CSA instead -->
+		<Starting_Forces> Pirates, Felucia_WW, Supa_Fighter_Squadron</Starting_Forces>
+		<Starting_Forces> Pirates, Felucia_WW, Supa_Fighter_Squadron</Starting_Forces>
+		<Starting_Forces> Pirates, Felucia_WW, Marauder_Missile_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Felucia_WW, Marauder_Missile_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Felucia_WW, Secutor</Starting_Forces>
+		<Starting_Forces> Pirates, Felucia_WW, Dreadnaught_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Felucia_WW, Dreadnaught_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Felucia_WW, Dreadnaught_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Felucia_WW, Acclamator</Starting_Forces>
+		<Starting_Forces> Pirates, Felucia_WW, Acclamator</Starting_Forces>
+
+		<Starting_Forces> Pirates, Lehon_WW, Pirate_Starbase_Lv3 </Starting_Forces>
+		<Starting_Forces> Pirates, Lehon_WW, Sith_Interdictor</Starting_Forces>
+		<Starting_Forces> Pirates, Lehon_WW, Sith_Interdictor</Starting_Forces>
+		<Starting_Forces> Pirates, Lehon_WW, Sith_Interdictor</Starting_Forces>
+		<Starting_Forces> Pirates, Lehon_WW, Sith_Interdictor</Starting_Forces>
+
+
+		<!-- Mandalorians:
+	Mostly unchanged gameplay. No Sector for them, just really strong military. Unlike other factions, they start spread appart so they can't join up.
+	Should encounter both Hapes and the Hutt Cartels, perhaps the Empire later if they survive. -->
+
+		<Starting_Forces> Mandalorians, Mandalore_WW, Minor_Starbase_Mandalorian </Starting_Forces>
+		<Starting_Forces> Mandalorians, Mandalore_WW, Minor_Trade_Hub </Starting_Forces>
+		<Starting_Forces> Mandalorians, Mandalore_WW, Mandalorians_Golan_3 </Starting_Forces>
+		<Starting_Forces> Mandalorians, Mandalore_WW, Minor_Outpost_Mandalorian </Starting_Forces>
+		<Starting_Forces> Mandalorians, Mandalore_WW, Mandalorians_Tank_Regiment </Starting_Forces>
+
+
+		<Starting_Forces> Mandalorians, Onderon_WW, Minor_Starbase_Mandalorian </Starting_Forces>
+		<Starting_Forces> Mandalorians, Onderon_WW, Minor_Shipyard_Mandalorian </Starting_Forces>
+		<Starting_Forces> Mandalorians, Onderon_WW, Minor_Trade_Hub </Starting_Forces>
+		<Starting_Forces> Mandalorians, Onderon_WW, Minor_Outpost_Mandalorian </Starting_Forces>
+		<Starting_Forces> Mandalorians, Onderon_WW, Mining_Facility_Minor_Temperate </Starting_Forces>
+		<Starting_Forces> Mandalorians, Onderon_WW, Mining_Facility_Minor_Temperate </Starting_Forces>
+		<Starting_Forces> Mandalorians, Onderon_WW, Mining_Facility_Minor_Temperate </Starting_Forces>
+		<Starting_Forces> Mandalorians, Onderon_WW, Mandalorians_Tank_Regiment </Starting_Forces>
+
+
+		<!-- Hapes Consortium:
+	Starts in a very defensible location, with a mapwide nebula that only affects hostile ships, but only gets the starting sector. 
+	Surrounding planets give only a little pushback, as Tanaab was a known Hapan trading post, and Zeltros is the literal Party Planet.
+	Will encounter the Mandalorians from Onderon_WW/Dxun to keep them occupied.
+	Has no access to large units, but existing units are very strong, especially vs shields. -->
+
+		<Starting_Forces> Hapan, Hapes_WW, Minor_Starbase_Hapan </Starting_Forces> <!-- Sector mechanic insert here -->
+		<Starting_Forces> Hapan, Hapes_WW, Minor_Shipyard_Hapan </Starting_Forces>
+		<Starting_Forces> Hapan, Hapes_WW, Minor_Outpost_Hapan </Starting_Forces>
+		<Starting_Forces> Hapan, Hapes_WW, Hapan_Golan_2 </Starting_Forces>
+		<Starting_Forces> Hapan, Hapes_WW, Mining_Facility_Minor_Barren </Starting_Forces>
+		<Starting_Forces> Hapan, Hapes_WW, Minor_Trade_Hub </Starting_Forces>
+		<Starting_Forces> Hapan, Hapes_WW, Hapan_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> Hapan, Hapes_WW, Hapan_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> Hapan, Hapes_WW, Battledragon_H </Starting_Forces>
+		<Starting_Forces> Hapan, Hapes_WW, Battledragon_H </Starting_Forces>
+
+		<Starting_Forces> Hapan, Tanaab_WW, Minor_Starbase_Hapan </Starting_Forces>	<!-- Large Hapes trade port -->
+		<Starting_Forces> Hapan, Tanaab_WW, Minor_Outpost_Hapan </Starting_Forces>
+		<Starting_Forces> Hapan, Tanaab_WW, Minor_Trade_Hub </Starting_Forces>
+		<Starting_Forces> Hapan, Tanaab_WW, Hapan_Tank_Regiment </Starting_Forces>
+
+		<Starting_Forces> Pirates, Zeltros_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+
+		<!-- Hutt Cartels:
+	The cartels spawn with a large amount of planets in Hutt space, including the rich Nal Hutta/Nar Shaddaa and Sleheyron.
+	Spawn location puts them right next to the Mandalorians on Mandalore_WW, and the Underworld.
+	They are meant to expand freely and fight whoever they encounter, as their military is not particularly impressive, though they will grow quickly -->
+
+		<Starting_Forces> Cartels, NalHutta_WW, Minor_Starbase_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, NalHutta_WW, Minor_Shipyard_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, NalHutta_WW, Minor_Outpost_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, NalHutta_WW, Mining_Facility_Minor_Barren </Starting_Forces>
+		<Starting_Forces> Cartels, NalHutta_WW, Hutt_Destroyer_HC </Starting_Forces>
+		<Starting_Forces> Cartels, NalHutta_WW, Hutt_Medium_Frigate_HC </Starting_Forces>
+		<Starting_Forces> Cartels, NalHutta_WW, Krayt_Gunship_Squadron_HC </Starting_Forces>
+		<Starting_Forces> Cartels, NalHutta_WW, Krayt_Gunship_Squadron_HC </Starting_Forces>
+		<Starting_Forces> Cartels, NalHutta_WW, Hutt_Skiff_Regiment</Starting_Forces>
+		<Starting_Forces> Cartels, NalHutta_WW, Hutt_Skiff_Regiment</Starting_Forces>
+
+		<Starting_Forces> Cartels, Sleheyron_WW, Minor_Starbase_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Sleheyron_WW, Minor_Shipyard_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Sleheyron_WW, Krayt_Gunship_Squadron_HC </Starting_Forces>
+		<Starting_Forces> Cartels, Sleheyron_WW, Minor_Outpost_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Sleheyron_WW, Mining_Facility_Minor_Barren </Starting_Forces>
+		<Starting_Forces> Cartels, Sleheyron_WW, Mining_Facility_Minor_Barren </Starting_Forces>
+		<Starting_Forces> Cartels, Sleheyron_WW, Hutt_Skiff_Regiment</Starting_Forces>
+
+		<Starting_Forces> Cartels, Circumtore_WW, Minor_Starbase_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Circumtore_WW, Minor_Outpost_Cartels</Starting_Forces>
+
+		<Starting_Forces> Cartels, Syvris_WW, Minor_Starbase_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Syvris_WW, Minor_Shipyard_Cartels </Starting_Forces>
+
+		<Starting_Forces> Cartels, Bothawui_WW, Minor_Starbase_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Bothawui_WW, Minor_Outpost_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Bothawui_WW, Hutt_Skiff_Regiment</Starting_Forces>
+
+		<Starting_Forces> Cartels, Nanthri_WW, Minor_Starbase_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Nanthri_WW, Minor_Outpost_Cartels </Starting_Forces>
+		<Starting_Forces> Cartels, Nanthri_WW, Hutt_Skiff_Regiment</Starting_Forces>
+
+		<Starting_Forces> Pirates, Mimban_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+		<Starting_Forces> Pirates, Mimban_WW, Minor_Outpost_Cartels </Starting_Forces>
+		<Starting_Forces> Pirates, Mimban_WW, Mining_Facility_Minor_Barren </Starting_Forces>
+		<Starting_Forces> Pirates, Mimban_WW, Hutt_Skiff_Regiment</Starting_Forces>
+
+		<Starting_Forces> Pirates, Randon_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+
+		<!-- CIS:
+	Not meant to be a major player, but might slowly take some planets left and right. Very scattered, very weak.
+	Hypori should fall to the Underworld swiftly. Muunilinst can fall if the Rebels from Dantooine focus. Mustafar is the only place they should reliably be able to maintain control of -->
+
+		<Starting_Forces> CIS, Mustafar_WW, Minor_Starbase_CIS </Starting_Forces>
+		<Starting_Forces> CIS, Mustafar_WW, Minor_Shipyard_CIS </Starting_Forces>
+		<Starting_Forces> CIS, Mustafar_WW, Minor_Trade_Hub </Starting_Forces>
+		<Starting_Forces> CIS, Mustafar_WW, Minor_Outpost_CIS </Starting_Forces>
+		<Starting_Forces> CIS, Mustafar_WW, Mining_Facility_Minor_Barren </Starting_Forces>
+		<Starting_Forces> CIS, Mustafar_WW, Mining_Facility_Minor_Barren </Starting_Forces>
+		<Starting_Forces> CIS, Mustafar_WW, Mining_Facility_Minor_Barren </Starting_Forces>
+		<Starting_Forces> CIS, Mustafar_WW, CIS_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> CIS, Mustafar_WW, CIS_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> CIS, Mustafar_WW, CIS_Assault_Regiment </Starting_Forces>
+		<Starting_Forces> CIS, Mustafar_WW, Lucrehulk_CIS </Starting_Forces>
+
+		<Starting_Forces> CIS, Muunilinst_WW, Minor_Starbase_CIS </Starting_Forces>
+		<Starting_Forces> CIS, Muunilinst_WW, Minor_Shipyard_CIS </Starting_Forces>
+		<Starting_Forces> CIS, Muunilinst_WW, Minor_Outpost_CIS </Starting_Forces>
+		<Starting_Forces> CIS, Muunilinst_WW, CIS_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> CIS, Muunilinst_WW, CIS_Tank_Regiment </Starting_Forces>
+		<Starting_Forces> CIS, Muunilinst_WW, Munificent_Frigate_CIS </Starting_Forces>
+		<Starting_Forces> CIS, Muunilinst_WW, Munificent_Frigate_CIS </Starting_Forces>
+
+		<!-- Random pirate starting forces -->
+
+		<Starting_Forces> Pirates, Axxila_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Orinda_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Raxus_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Bestine_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Dathomir_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Vjun_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Dagobah_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Sullust_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+		<Starting_Forces> Pirates, Sullust_WW, Dauntless_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Sullust_WW, Dauntless_Cruiser</Starting_Forces>
+		<Starting_Forces> Pirates, Sullust_WW, Quasar_Carrier </Starting_Forces>
+		<Starting_Forces> Pirates, Sullust_WW, Quasar_Carrier </Starting_Forces>
+
+		<Starting_Forces> Pirates, MonCalamari_WW, Pirate_Starbase_Lv2 </Starting_Forces>
+		<Starting_Forces> Pirates, MonCalamari_WW, MC-80_HO_Star_Cruiser </Starting_Forces>
+		<Starting_Forces> Pirates, MonCalamari_WW, MC-80_Star_Cruiser </Starting_Forces>
+		<Starting_Forces> Pirates, MonCalamari_WW, MC-80_Wingless_Cruiser </Starting_Forces>
+
+		<Starting_Forces> Pirates, Cato_Neimoidia_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+		<Starting_Forces> Pirates, Cato_Neimoidia_WW, Lucrehulk_Battleship</Starting_Forces>
+
+		<Starting_Forces> Pirates, Mygeeto_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Utapau_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+		<Starting_Forces> Pirates, Utapau_WW, Lucrehulk</Starting_Forces>
+
+		<Starting_Forces> Pirates, YagDhul_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+		<Starting_Forces> Pirates, YagDhul_WW, Providence_Destroyer</Starting_Forces>
+
+		<Starting_Forces> Pirates, Polis_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, AetenII_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Manaan_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Jabiim_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Malastare_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Thyferra_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Shola_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Saleucami_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Agamar_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Ringo_Vinda_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Sluis_Van_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Kinyen_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Bilbringi_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Ord_Mantell_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Ithor_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Borosk_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Ord_Trasi_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Lantillies_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Columex_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Lianna_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Ilum_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, The_Redoubt_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Kriselist_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Sernpidal_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Birgis_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Boz_Pity_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+
+		<Starting_Forces> Pirates, Bespin_WW, Pirate_Starbase_Lv1 </Starting_Forces>
+	</Campaign>
+
+</Campaigns>
